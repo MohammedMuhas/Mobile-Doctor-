@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Doctor Shop",
+  "description": "Premium mobile sales and professional hardware/software repair service website for Mobile Doctor Shop in Pudukkottai, Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
